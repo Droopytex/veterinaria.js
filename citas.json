@@ -12,5 +12,26 @@
     "tipoDeAnimal": "perro",
     "colorAnimal": "cafe",
     "enfermedad": "temblores"
+  },
+  {
+    "nombreMascota": "Any",
+    "edad": "3 años",
+    "tipoDeAnimal": "gato",
+    "colorAnimal": "atigrado",
+    "enfermedad": "fractura_de_cola"
+  },
+  {
+    "nombreMascota": "Destructor",
+    "edad": "3 mese",
+    "tipoDeAnimal": "hamster",
+    "colorAnimal": "blanco_y_cafe",
+    "enfermedad": "infección_ocular"
+  },
+  {
+    "nombreMascota": "Leviatan",
+    "edad": "1 año",
+    "tipoDeAnimal": "pez",
+    "colorAnimal": "dorado",
+    "enfermedad": "inflamación_abdominal"
   }
 ]

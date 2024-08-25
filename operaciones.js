@@ -12,11 +12,7 @@ const registrar = (nombre, edad, tipoDeAnimal, colorAnimal, enfermedad) => {
   };
   const datos = JSON.parse(fs.readFileSync("citas.json", "utf8"));
 
-  //console.log("datos antes del push", datos);
-
   datos.push(datosAnimal);
-
-  //console.log("datos despues del push", datos);
 
   fs.writeFileSync("citas.json", JSON.stringify(datos));
   console.log("Cita registrada exitosamente");
