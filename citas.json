@@ -1,0 +1,16 @@
+[
+  {
+    "nombreMascota": "Morita",
+    "edad": "3 años",
+    "tipoDeAnimal": "perro",
+    "colorAnimal": "cafe",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombreMascota": "Canela",
+    "edad": "2 años",
+    "tipoDeAnimal": "perro",
+    "colorAnimal": "cafe",
+    "enfermedad": "temblores"
+  }
+]
